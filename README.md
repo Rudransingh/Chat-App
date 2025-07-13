@@ -63,3 +63,6 @@ This project provided me with valuable experience in real-time web development a
 
 ## Output
 
+<img width="1862" height="1012" alt="Image" src="https://github.com/user-attachments/assets/91a6cf2b-bec7-4656-a9d7-978047a3060e" />
+<img width="1896" height="1007" alt="Image" src="https://github.com/user-attachments/assets/22305bbf-bcb4-40aa-8993-4bf3dc5f0458" />
+
